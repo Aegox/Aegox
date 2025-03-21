@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, Hola soy Diego Amundaray.</h1>
+<h1 align="center">Hola 👋, soy Diego Amundaray.</h1>
 <h3 align="center">Un Full Stack Developer desde Colombia :)</h3>
 
 <h3>Acerca de mi</h3>
 
 <p>Persona dedicada a la programación con un perfil de aprendizaje continuo para mejorar o adquirir conocimientos y habilidades, buena capacidad de trabajo en equipo y manejo de un alto nivel de responsabilidad. Me identifico trabajando en un ambiente laboral agradable y siendo capaz de contribuir mucho a quien esté interesado. Ciertamente tengo la capacidad de comunicarme bien en cualquier entorno; podría decirse que soy una persona muy sociable, capaz de crear ambientes amigables con muchas o pocas personas. También tengo habilidades en servicio al cliente, obtenidas de otros trabajos. Actualmente estoy buscando un trabajo como Desarrollador Web, ya sea Full Stack, Front End o Back End, así que tengo habilidades en lenguajes y/o frameworks como JavaScript, Html, Css, Bootstrap, React, Redux, Sequelize, PostgreSQL, Express, Node y Firebase. Puedes contactarme a través del chat de LinkedIn. Gracias.</p>
 
-- 📫 How to reach me **diegoamundaray2017@gmail.com**
+- 📫 Como encontrarme **diegoamundaray2017@gmail.com**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
